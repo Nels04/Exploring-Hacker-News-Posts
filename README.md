@@ -4,4 +4,5 @@ Hacker News is site started by Y Combinator where user-submitted stories (known 
 Our goal is to compare the 2 types of posts to determine:
  * Do Ask HN or Show HN receive more comments on average?
  * Do posts created at a certain time receive more comments on average?
- 
+ Here's the link to the Jupyter Notebook file:
+ https://github.com/Nels04/Exploring-Hacker-News-Posts/blob/master/Exploring%20Hacker%20News.ipynb
